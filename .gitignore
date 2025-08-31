@@ -1,0 +1,13 @@
+# Node & Python
+node_modules/
+dist/
+build/
+.env
+*.pyc
+__pycache__/
+# OS files
+.DS_Store
+Thumbs.db
+# Editor settings
+.vscode/
+.idea/
